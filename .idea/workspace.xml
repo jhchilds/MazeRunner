@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Git-Up-and-Go" targetName="main.cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5ea1ad3-7d70-41b6-ac1a-4fc5932908fd" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-359640298">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Door.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1800">
+              <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graphics.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5100">
+              <caret line="340" column="78" selection-start-line="340" selection-start-column="78" selection-end-line="340" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake-build-debug/level1.map">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Switch.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinScreen.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinScreen.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Git</find>
+      <find>graphic</find>
+      <find>graphics</find>
+      <find>shape</find>
+      <find>git</find>
+      <find>Square</find>
+      <find>draw</find>
+      <find>startScreen</find>
+      <find>mapIndex</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/User_Piece.h" />
+        <option value="$PROJECT_DIR$/Line.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Git-Up-and-Go.dir/build.make" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/graphics.cbp" />
+        <option value="$PROJECT_DIR$/graphics .h" />
+        <option value="$PROJECT_DIR$/Piece.cpp" />
+        <option value="$PROJECT_DIR$/graphics .cpp" />
+        <option value="$PROJECT_DIR$/Door.h" />
+        <option value="$PROJECT_DIR$/Switch.h" />
+        <option value="$PROJECT_DIR$/Piece.h" />
+        <option value="$PROJECT_DIR$/Line.cpp" />
+        <option value="$PROJECT_DIR$/PlayerPiece.h" />
+        <option value="$PROJECT_DIR$/PlayerPiece.cpp" />
+        <option value="$PROJECT_DIR$/MonsterPiece.h" />
+        <option value="$PROJECT_DIR$/MonsterPiece.cpp" />
+        <option value="$PROJECT_DIR$/testing.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/textSave.txt" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/testSave" />
+        <option value="$PROJECT_DIR$/Map.h" />
+        <option value="$PROJECT_DIR$/Square.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/save.map" />
+        <option value="$PROJECT_DIR$/Wall.cpp" />
+        <option value="$PROJECT_DIR$/Switch.cpp" />
+        <option value="$PROJECT_DIR$/Door.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/level1.map" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/level2.map" />
+        <option value="$PROJECT_DIR$/PauseScreen.h" />
+        <option value="$PROJECT_DIR$/PauseScreen.cpp" />
+        <option value="$PROJECT_DIR$/StartScreen.h" />
+        <option value="$PROJECT_DIR$/StartScreen.cpp" />
+        <option value="$PROJECT_DIR$/LoseScreen.cpp" />
+        <option value="$PROJECT_DIR$/WinScreen.cpp" />
+        <option value="$PROJECT_DIR$/graphics.h" />
+        <option value="$PROJECT_DIR$/NextLevelScreen.cpp" />
+        <option value="$PROJECT_DIR$/NextLevelScreen.h" />
+        <option value="$PROJECT_DIR$/LoseScreen.h" />
+        <option value="$PROJECT_DIR$/WinScreen.h" />
+        <option value="$PROJECT_DIR$/Map.cpp" />
+        <option value="$PROJECT_DIR$/graphics.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Git-Up-and-Go" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Git-Up-and-Go" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/joshuachilds/Desktop/Undergrad UVM/Spring 2018 Semester Work/CS 120 Advanced Programming/projects/Git-Up-and-Go/PlayerPiece.h" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main.cpp">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Git-Up-and-Go" RUN_TARGET_NAME="main.cpp" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Git-Up-and-Go" TARGET_NAME="main.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Git-Up-and-Go" RUN_TARGET_NAME="main.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.main.cpp" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5ea1ad3-7d70-41b6-ac1a-4fc5932908fd" name="Default" comment="" />
+      <created>1523293674862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523293674862</updated>
+      <workItem from="1523293676493" duration="524000" />
+      <workItem from="1523323505924" duration="703000" />
+      <workItem from="1523368766990" duration="4094000" />
+      <workItem from="1523468979482" duration="170000" />
+      <workItem from="1523540273201" duration="3892000" />
+      <workItem from="1523545753987" duration="815000" />
+      <workItem from="1523931371945" duration="11000" />
+      <workItem from="1523974269073" duration="8702000" />
+      <workItem from="1524146374203" duration="2842000" />
+      <workItem from="1524185561945" duration="12550000" />
+      <workItem from="1524198827328" duration="4568000" />
+      <workItem from="1524238827462" duration="302000" />
+      <workItem from="1524245989472" duration="5813000" />
+      <workItem from="1524269826465" duration="196000" />
+      <workItem from="1524502306553" duration="106000" />
+      <workItem from="1524578783945" duration="4758000" />
+      <workItem from="1524607710918" duration="221000" />
+      <workItem from="1524711591126" duration="150000" />
+      <workItem from="1524751237959" duration="4666000" />
+      <workItem from="1525018302259" duration="974000" />
+      <workItem from="1525024610421" duration="248000" />
+      <workItem from="1525099860556" duration="314000" />
+      <workItem from="1525111833388" duration="66000" />
+      <workItem from="1525183395241" duration="8280000" />
+      <workItem from="1525198530916" duration="1207000" />
+      <workItem from="1525227237330" duration="12383000" />
+      <workItem from="1525275986843" duration="120000" />
+      <workItem from="1525303262486" duration="12923000" />
+      <workItem from="1525321689779" duration="5124000" />
+      <workItem from="1525348901601" duration="299000" />
+      <workItem from="1525355352392" duration="3453000" />
+      <workItem from="1525363436842" duration="114000" />
+      <workItem from="1525373992207" duration="12000" />
+      <workItem from="1525473483844" duration="1491000" />
+      <workItem from="1525995858041" duration="365000" />
+      <workItem from="1526227700490" duration="988000" />
+      <workItem from="1527002329570" duration="1004000" />
+      <workItem from="1535417107328" duration="186000" />
+      <workItem from="1535566791719" duration="284000" />
+      <workItem from="1539355522527" duration="82000" />
+    </task>
+    <task id="LOCAL-00027" summary="Updated comments for draw method in MonsterPiece.cpp">
+      <created>1524191189989</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1524191189989</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Defined Overloaded Ostream operator for saving gamestate in PlayerPiece.">
+      <created>1524193937062</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1524193937062</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Declared Overloaded Ostream operator for saving gamestate in &#10;PlayerPiece.h">
+      <created>1524194049557</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1524194049557</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Put import statements in parent class Piece.h">
+      <created>1524194527382</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1524194527383</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Took out import statements from child PlayerPiece.h and put&#10;them in parent Piece.h">
+      <created>1524194563470</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1524194563470</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Defined Overloaded Ostream operator for MonsterPiece.cpp">
+      <created>1524194798157</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1524194798157</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Declared Overloaded Ostream operator for MonsterPiece.h">
+      <created>1524194859722</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1524194859722</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Changed name of graphics.cpp and graphics.h deleted a space">
+      <created>1524196292732</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1524196292732</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Testing PlayerPiece and MonsterPiece Overloaded Otsream Operator">
+      <created>1524197080098</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1524197080098</updated>
+    </task>
+    <task id="LOCAL-00036" summary="edited mispelled include statement in Line.cpp">
+      <created>1524197182954</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1524197182954</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Appended testing with overloaded operators">
+      <created>1524198325834</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1524198325834</updated>
+    </task>
+    <task id="LOCAL-00038" summary="testing and switch edits">
+      <created>1524199179643</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1524199179643</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Testing overloaded operators for ostream in testing.cpp">
+      <created>1524199866466</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1524199866466</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Created Istream overloaded operator in PlayerPiece.cpp and .h">
+      <created>1524203331171</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1524203331171</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Created Istream overloaded operator in PlayerPiece Class using&#10;getline&#10;&#10;FORMAT (JUST VALUES NO LINE TITLES): &#10;PIECE TYPE (ALL CAPS)&#10;LENGTH&#10;WIDTH&#10;CENTER X,Y&#10;FILL R,G,B&#10;BORDER R,G,B">
+      <created>1524249189896</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1524249189896</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Created Istream overloaded operator in MonsterPiece Class using&#10;getline&#10;&#10;FORMAT (JUST VALUES NO LINE TITLES): &#10;PIECE TYPE (ALL CAPS)&#10;LENGTH&#10;WIDTH&#10;CENTER X,Y&#10;FILL R,G,B&#10;BORDER R,G,B">
+      <created>1524252328991</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1524252328991</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Testing for Overloaded Input Operators in Player and Monster Piece Classes">
+      <created>1524253909781</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1524253909781</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Took off last char in file reading">
+      <created>1524583682888</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1524583682888</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Took off last char in file reading for Door (MAC ISSUES)">
+      <created>1525191208169</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1525191208169</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Took off last char in file reading for WALL (MAC ISSUES)">
+      <created>1525191226700</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1525191226700</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Took off last char in file reading for bool open in DOOR (MAC ISSUES)">
+      <created>1525191904272</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1525191904272</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Took off last char in file reading for SWITCH (MAC ISSUES)">
+      <created>1525192510058</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1525192510058</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Created StartScreen as a new class">
+      <created>1525192675543</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1525192675543</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Made basic start screen with two square objects">
+      <created>1525195123555</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1525195123556</updated>
+    </task>
+    <task id="LOCAL-00051" summary="made graphics.cpp show start screen first">
+      <created>1525195182531</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1525195182531</updated>
+    </task>
+    <task id="LOCAL-00052" summary="altered start screen to have clickable functionality, not completed yet">
+      <created>1525195966589</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1525195966589</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Centered text in start screen">
+      <created>1525199777368</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1525199777369</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Add hover functionality to graphics and centered messages">
+      <created>1525231123677</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1525231123677</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Add hover functionality to pausescreen and centered messages">
+      <created>1525231974924</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1525231974925</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Fix Square and switch carriage return checkers to draw them.">
+      <created>1525233943176</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1525233943176</updated>
+    </task>
+    <task id="LOCAL-00057" summary="edit colors of buttons in menus">
+      <created>1525234785137</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1525234785137</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Returned dereferencd pointers to correct load and save functionality.">
+      <created>1525237924849</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1525237924849</updated>
+    </task>
+    <task id="LOCAL-00059" summary="fixed level 2 map">
+      <created>1525239107439</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1525239107440</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Edits to pause screen and start screen">
+      <created>1525307013602</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1525307013604</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Edits to pause screen and start screen">
+      <created>1525307088890</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1525307088890</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Put moving monster pieces on the start screen">
+      <created>1525312451712</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1525312451712</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Put monster chasing player around menu buttons in start screen">
+      <created>1525314393165</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1525314393165</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Created file for Lose Screen">
+      <created>1525315408290</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1525315408291</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Created file for Lose Screen">
+      <created>1525315423404</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1525315423404</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Updated Graphics to include lose screen">
+      <created>1525317090063</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1525317090063</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Put moving monsters in losescreen">
+      <created>1525318058230</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1525318058231</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Create WinScreen">
+      <created>1525318498944</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1525318498944</updated>
+    </task>
+    <task id="LOCAL-00069" summary=" fixed bug in winscreen">
+      <created>1525318851384</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1525318851384</updated>
+    </task>
+    <task id="LOCAL-00070" summary="change size of pieces in winscreen">
+      <created>1525319298059</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1525319298060</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Create Next Level Screen">
+      <created>1525320970106</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1525320970106</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Updated next level screen">
+      <created>1525322312701</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1525322312702</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Updated next level screen to provide correct next level">
+      <created>1525322963869</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1525322963869</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Fixed stun counter">
+      <created>1525325231915</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1525325231915</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Fixed mac problems!!!!">
+      <created>1525359247490</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1525359247490</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105000000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1795422" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6537911" weight="0.12048193" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.55797666" weight="0.36770186" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.34477827" weight="0.23493975" />
+      <window_info anchor="bottom" id="CMake" order="8" sideWeight="0.48015565" weight="0.3341615" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.40529248" weight="0.13540372" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.34620887" side_tool="true" visible="true" weight="0.12048193" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created StartScreen as a new class" />
+    <MESSAGE value="Made basic start screen with two square objects" />
+    <MESSAGE value="made graphics.cpp show start screen first" />
+    <MESSAGE value="altered start screen to have clickable functionality, not completed yet" />
+    <MESSAGE value="Centered text in start screen" />
+    <MESSAGE value="Add hover functionality to graphics and centered messages" />
+    <MESSAGE value="Add hover functionality to pausescreen and centered messages" />
+    <MESSAGE value="Fix Square and switch carriage return checkers to draw them." />
+    <MESSAGE value="edit colors of buttons in menus" />
+    <MESSAGE value="Returned dereferencd pointers to correct load and save functionality." />
+    <MESSAGE value="fixed level 2 map" />
+    <MESSAGE value="Edits to pause screen and start screen" />
+    <MESSAGE value="Put moving monster pieces on the start screen" />
+    <MESSAGE value="Put monster chasing player around menu buttons in start screen" />
+    <MESSAGE value="Created file for Lose Screen" />
+    <MESSAGE value="Updated Graphics to include lose screen" />
+    <MESSAGE value="Put moving monsters in losescreen" />
+    <MESSAGE value="Create WinScreen" />
+    <MESSAGE value=" fixed bug in winscreen" />
+    <MESSAGE value="change size of pieces in winscreen" />
+    <MESSAGE value="Create Next Level Screen" />
+    <MESSAGE value="Updated next level screen" />
+    <MESSAGE value="Updated next level screen to provide correct next level" />
+    <MESSAGE value="Fixed stun counter" />
+    <MESSAGE value="Fixed mac problems!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed mac problems!!!!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Door.cpp</url>
+          <line>55</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Square.cpp</url>
+          <line>131</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/graphics.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/graphics.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.cpp.dir/Piece.cpp.o">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/algorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1730" column="18" selection-start-line="1730" selection-start-column="18" selection-end-line="1730" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/vector">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="562" column="9" selection-start-line="562" selection-start-column="9" selection-end-line="562" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piece.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlayerPiece.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" selection-start-line="101" selection-end-line="109" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/testSave.txt" />
+    <entry file="file://$PROJECT_DIR$/Wall.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/testSave">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Square.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Line.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/string">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="1473" selection-start-line="1473" selection-end-line="1473" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/memory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="2207" selection-start-line="2207" selection-end-line="2207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/save.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Square.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="304" selection-start-line="304" selection-end-line="304" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/fstream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18270">
+          <caret line="1218" selection-start-line="1218" selection-end-line="1218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wall.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piece.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlayerPiece.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/level3.map" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/level2.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphics.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Door.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Line.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonsterPiece.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonsterPiece.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextLevelScreen.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PauseScreen.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PauseScreen.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StartScreen.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Switch.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StartScreen.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoseScreen.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextLevelScreen.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoseScreen.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Map.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3555">
+          <caret line="237" column="9" selection-start-line="237" selection-start-column="9" selection-end-line="237" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.cpp.dir/depend.internal">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.cpp.dir/Line.cpp.o">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.cpp.dir/flags.make">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphics.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5100">
+          <caret line="340" column="78" selection-start-line="340" selection-start-column="78" selection-end-line="340" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinScreen.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinScreen.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Switch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/level1.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Door.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
